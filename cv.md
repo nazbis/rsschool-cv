@@ -2,9 +2,9 @@
 
 ## Contact Information:
 
-* Phone: 87778206426
-* Email: nbisametova@mail.ru
-* Discord username: nazbis
+* **Phone**: 87778206426
+* **Email**: nbisametova@mail.ru
+* **Discord username**: nazbis
 
 ## About Me
 
@@ -32,14 +32,14 @@ function multiply(a, b){
 ```
 ## Education
 
-1. IITU 2018-2022
-2. KazNU 2022-2024
+1. *IITU* 2018-2022
+2. *KazNU* 2022-2024
 
 ## Languages
 
-* English 
+* **English** 
     * Intermediate 
-* Russian
+* **Russian**
     * Fluent
-* Kazakh
+* **Kazakh**
     * Native
