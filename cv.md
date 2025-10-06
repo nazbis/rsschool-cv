@@ -1,5 +1,4 @@
 # Bissametova Nazerke
-===
 ## Contact Information:
 * Phone: 87778206426
 * Email: nbisametova@mail.ru
@@ -24,7 +23,6 @@ function multiply(a, b){
   return parseInt(a) * parseInt(b);
 }
 ```
-===
 ## Education
 1. IITU 2018-2022
 2. KazNU 2022-2024
