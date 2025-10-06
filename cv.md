@@ -43,3 +43,5 @@ function multiply(a, b){
     * Fluent
 * **Kazakh**
     * Native
+
+![avatar](https://static.vecteezy.com/system/resources/previews/001/993/889/non_2x/beautiful-latin-woman-avatar-character-icon-free-vector.jpg)
