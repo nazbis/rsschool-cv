@@ -12,3 +12,27 @@ Currently, I’m working as a QA engineer. I really enjoy my job, but I want to 
 +I don’t hesitate to ask for help
 +Team player
 ===
+##Skills
+-HTML, CSS
+-Postman
+-Burp Suite
+-SQL
+===
+##Code Examples
+```
+function multiply(a, b){
+  return parseInt(a) * parseInt(b);
+}
+```
+===
+##Education
+1. IITU 2018-2022
+2. KazNU 2022-2024
+===
+##Languages
+*English 
+    *Intermediate 
+*Russian
+    *Fluent
+*Kazakh
+    *Native
